@@ -1,0 +1,10 @@
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp2.1\SudokuSolver.deps.json
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp2.1\SudokuSolver.runtimeconfig.json
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp2.1\SudokuSolver.runtimeconfig.dev.json
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp2.1\SudokuSolver.dll
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp2.1\SudokuSolver.pdb
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp2.1\SudokuSolver.fsprojAssemblyReference.cache
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp2.1\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp2.1\SudokuSolver.AssemblyInfo.fs
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp2.1\SudokuSolver.dll
+C:\Users\varga\source\repos\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp2.1\SudokuSolver.pdb
